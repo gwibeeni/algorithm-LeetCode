@@ -22,13 +22,12 @@ class Solution {
         TreeNode leftChild = root.left;
         TreeNode rightChild = root.right;
 
-        if (leftChild != null
-            && leftChild.left == null
-            && leftChild.right == null) {
+        if (leftChild != null &&
+            leftChild.left == null &&
+            leftChild.right == null) {
             return leftChild.val + this.sumOfLeftLeaves(rightChild);
         }
 
         return this.sumOfLeftLeaves(leftChild) + this.sumOfLeftLeaves(rightChild);
     }
 }
-

@@ -25,12 +25,11 @@ class Solution {
 
         int answer = (current << 1) + start.val;
 
-        if (start.left == null
-           && start.right == null) {
+        if (start.left == null &&
+            start.right == null) {
             return answer;
         }
 
         return sumNodeToLeaf(start.left, answer) + sumNodeToLeaf(start.right, answer);
     }
 }
-
