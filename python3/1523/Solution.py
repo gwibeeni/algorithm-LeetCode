@@ -3,7 +3,10 @@ class Solution:
         numCount = high - low + 1
         oddCount = numCount // 2
 
-        if (numCount % 2 != 0 and low % 2 != 0):
+        if (
+            numCount % 2 != 0 and
+            low % 2 != 0
+        ):
             oddCount += 1
 
         return oddCount

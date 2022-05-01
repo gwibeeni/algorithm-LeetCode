@@ -14,8 +14,10 @@ class Solution:
 
         answer = (current << 1) + start.val
 
-        if start.left == None and start.right == None:
+        if (
+            start.left == None and
+            start.right == None
+        ):
             return answer
 
         return self.sumNodeToLeaf(start.left, answer) + self.sumNodeToLeaf(start.right, answer)
-

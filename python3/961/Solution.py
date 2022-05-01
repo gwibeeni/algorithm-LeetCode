@@ -9,4 +9,3 @@ class Solution:
             checked_nums.add(num)
 
         return -1
-

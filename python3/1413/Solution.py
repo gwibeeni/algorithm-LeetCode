@@ -9,4 +9,3 @@ class Solution:
             min_sum = min(min_sum, current_sum)
 
         return 1 - min_sum
-
