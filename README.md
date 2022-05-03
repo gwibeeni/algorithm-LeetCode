@@ -11,3 +11,4 @@ Solve LeetCode Problems with Java and Python
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | [Java](./java/1769/Solution.java), [Python](./python3/1769/Solution.py) | Medium |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [Java](./java/1523/Solution.java), [Python](./python3/1523/Solution.py) | Easy |
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Java](./java/520/Solution.java), [Python](./python3/520/Solution.py) | Easy |
+| 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Java](./java/1221/Solution.java), [Python](./python3/1221/Solution.py) | Easy |
