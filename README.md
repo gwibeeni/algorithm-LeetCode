@@ -14,3 +14,4 @@ Solve LeetCode Problems with Java and Python
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Java](./java/1221/Solution.java), [Python](./python3/1221/Solution.py) | Easy |
 | 1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | [Java](./java/1904/Solution.java), [Python](./python3/1904/Solution.py) | Medium |
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Java](./java/1018/Solution.java), [Python](./python3/1018/Solution.py) | Easy |
+| 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Java](./java/1603/ParkingSystem.java), [Python](./python3/1603/ParkingSystem.py) | Easy |
