@@ -16,3 +16,4 @@ Solve LeetCode Problems with Java and Python
 | 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [Java](./java/1018/Solution.java), [Python](./python3/1018/Solution.py) | Easy |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [Java](./java/1603/ParkingSystem.java), [Python](./python3/1603/ParkingSystem.py) | Easy |
 | 1310 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/) | [Java](./java/1310/Solution.java), [Python](./python3/1310/Solution.py) | Medium |
+| 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Java](./java/1431/Solution.java), [Python](./python3/1431/Solution.py) | Easy |
