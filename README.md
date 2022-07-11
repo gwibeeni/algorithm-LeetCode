@@ -21,3 +21,4 @@ Solve LeetCode Problems with Java and Python
 | 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | [Java](./java/1927/Solution.java), [Python](./python3/1927/Solution.py) | Medium |
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Java](./java/929/Solution.java), [Python](./python3/929/Solution.py) | Easy |
 | 2110 | [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | [Java](./java/2110/Solution.java), [Python](./python3/2110/Solution.py) | Medium |
+| 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [Java](./java/807/Solution.java), [Python](./python3/807/Solution.py) | Medium |
