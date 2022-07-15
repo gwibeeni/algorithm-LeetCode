@@ -22,3 +22,4 @@ Solve LeetCode Problems with Java and Python
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [Java](./java/929/Solution.java), [Python](./python3/929/Solution.py) | Easy |
 | 2110 | [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | [Java](./java/2110/Solution.java), [Python](./python3/2110/Solution.py) | Medium |
 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | [Java](./java/807/Solution.java), [Python](./python3/807/Solution.py) | Medium |
+| 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [Java](./java/1720/Solution.java), [Python](./python3/1720/Solution.py) | Easy |
